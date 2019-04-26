@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/woorian/DIYPAGE.git/precache-manifest.583a368979701dadddf5637da4e8c75d.js"
+  "/woorian/DIYPAGE.git/precache-manifest.e7ac5e98b836d95099b225d492bd9056.js"
 );
 
 workbox.clientsClaim();

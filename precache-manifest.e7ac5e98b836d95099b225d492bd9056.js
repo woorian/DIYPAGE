@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "cacc282f3a8941721106",
-    "url": "/woorian/DIYPAGE.git/static/js/main.9988f8aa.chunk.js"
+    "revision": "c524e388a6a5e0444fce",
+    "url": "/woorian/DIYPAGE.git/static/js/main.fb81fcfb.chunk.js"
   },
   {
     "revision": "5d6a0792971cee206099",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/woorian/DIYPAGE.git/static/media/1.576e7507.png"
   },
   {
-    "revision": "417bfca8cf74a2555a2be8ecde51b529",
+    "revision": "6f74363a2536e8dcc25f835c7ea2d94b",
     "url": "/woorian/DIYPAGE.git/index.html"
   }
 ];
